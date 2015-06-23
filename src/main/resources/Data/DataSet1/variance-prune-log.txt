@@ -1,0 +1,465 @@
+---------------------------------Pruning Start---------------------------------------
+ l : 10 , k : 15
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> L : 1
+inner loop limit value by random -  M : 15
+inner loop  with k : 1
+number of internal leaf-  N : 138
+pth node for prune-  P : 87
+internal node pruned 
+inner loop  with k : 2
+number of internal leaf-  N : 134
+pth node for prune-  P : 53
+internal node pruned 
+inner loop  with k : 3
+number of internal leaf-  N : 131
+pth node for prune-  P : 114
+internal node pruned 
+inner loop  with k : 4
+number of internal leaf-  N : 127
+pth node for prune-  P : 28
+internal node pruned 
+inner loop  with k : 5
+number of internal leaf-  N : 119
+pth node for prune-  P : 90
+internal node pruned 
+inner loop  with k : 6
+number of internal leaf-  N : 118
+pth node for prune-  P : 65
+internal node pruned 
+inner loop  with k : 7
+number of internal leaf-  N : 117
+pth node for prune-  P : 45
+internal node pruned 
+inner loop  with k : 8
+number of internal leaf-  N : 114
+pth node for prune-  P : 77
+internal node pruned 
+inner loop  with k : 9
+number of internal leaf-  N : 112
+pth node for prune-  P : 54
+internal node pruned 
+inner loop  with k : 10
+number of internal leaf-  N : 110
+pth node for prune-  P : 25
+internal node pruned 
+inner loop  with k : 11
+number of internal leaf-  N : 107
+pth node for prune-  P : 44
+internal node pruned 
+inner loop  with k : 12
+number of internal leaf-  N : 105
+pth node for prune-  P : 15
+internal node pruned 
+inner loop  with k : 13
+number of internal leaf-  N : 101
+pth node for prune-  P : 2
+internal node pruned 
+inner loop  with k : 14
+number of internal leaf-  N : 37
+pth node for prune-  P : 34
+internal node pruned 
+inner loop  with k : 15
+number of internal leaf-  N : 35
+pth node for prune-  P : 3
+internal node pruned 
+----------inner loop exit---------
+ L : 1 accuracy = 0.513 , maximum accuracy = 0.513
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> L : 2
+inner loop limit value by random -  M : 15
+inner loop  with k : 1
+number of internal leaf-  N : 138
+pth node for prune-  P : 85
+internal node pruned 
+inner loop  with k : 2
+number of internal leaf-  N : 136
+pth node for prune-  P : 77
+internal node pruned 
+inner loop  with k : 3
+number of internal leaf-  N : 131
+pth node for prune-  P : 85
+internal node pruned 
+inner loop  with k : 4
+number of internal leaf-  N : 127
+pth node for prune-  P : 98
+internal node pruned 
+inner loop  with k : 5
+number of internal leaf-  N : 125
+pth node for prune-  P : 110
+internal node pruned 
+inner loop  with k : 6
+number of internal leaf-  N : 124
+pth node for prune-  P : 64
+internal node pruned 
+inner loop  with k : 7
+number of internal leaf-  N : 119
+pth node for prune-  P : 79
+internal node pruned 
+inner loop  with k : 8
+number of internal leaf-  N : 117
+pth node for prune-  P : 74
+internal node pruned 
+inner loop  with k : 9
+number of internal leaf-  N : 116
+pth node for prune-  P : 87
+internal node pruned 
+inner loop  with k : 10
+number of internal leaf-  N : 111
+pth node for prune-  P : 49
+internal node pruned 
+inner loop  with k : 11
+number of internal leaf-  N : 107
+pth node for prune-  P : 6
+internal node pruned 
+inner loop  with k : 12
+number of internal leaf-  N : 86
+pth node for prune-  P : 29
+internal node pruned 
+inner loop  with k : 13
+number of internal leaf-  N : 81
+pth node for prune-  P : 3
+internal node pruned 
+inner loop  with k : 14
+number of internal leaf-  N : 68
+pth node for prune-  P : 24
+internal node pruned 
+inner loop  with k : 15
+number of internal leaf-  N : 64
+pth node for prune-  P : 61
+internal node pruned 
+----------inner loop exit---------
+ L : 2 accuracy = 0.6155 , maximum accuracy = 0.6155
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> L : 3
+inner loop limit value by random -  M : 5
+inner loop  with k : 1
+number of internal leaf-  N : 138
+pth node for prune-  P : 105
+internal node pruned 
+inner loop  with k : 2
+number of internal leaf-  N : 137
+pth node for prune-  P : 18
+internal node pruned 
+inner loop  with k : 3
+number of internal leaf-  N : 121
+pth node for prune-  P : 18
+internal node pruned 
+inner loop  with k : 4
+number of internal leaf-  N : 111
+pth node for prune-  P : 94
+internal node pruned 
+inner loop  with k : 5
+number of internal leaf-  N : 109
+pth node for prune-  P : 60
+internal node pruned 
+----------inner loop exit---------
+ L : 3 accuracy = 0.748 , maximum accuracy = 0.748
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> L : 4
+inner loop limit value by random -  M : 6
+inner loop  with k : 1
+number of internal leaf-  N : 138
+pth node for prune-  P : 21
+internal node pruned 
+inner loop  with k : 2
+number of internal leaf-  N : 134
+pth node for prune-  P : 116
+internal node pruned 
+inner loop  with k : 3
+number of internal leaf-  N : 132
+pth node for prune-  P : 85
+internal node pruned 
+inner loop  with k : 4
+number of internal leaf-  N : 131
+pth node for prune-  P : 44
+internal node pruned 
+inner loop  with k : 5
+number of internal leaf-  N : 128
+pth node for prune-  P : 111
+internal node pruned 
+inner loop  with k : 6
+number of internal leaf-  N : 124
+pth node for prune-  P : 100
+internal node pruned 
+----------inner loop exit---------
+ L : 4 accuracy = 0.7625 , maximum accuracy = 0.7625
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> L : 5
+inner loop limit value by random -  M : 14
+inner loop  with k : 1
+number of internal leaf-  N : 138
+pth node for prune-  P : 54
+internal node pruned 
+inner loop  with k : 2
+number of internal leaf-  N : 135
+pth node for prune-  P : 9
+internal node pruned 
+inner loop  with k : 3
+number of internal leaf-  N : 106
+pth node for prune-  P : 65
+internal node pruned 
+inner loop  with k : 4
+number of internal leaf-  N : 101
+pth node for prune-  P : 94
+internal node pruned 
+inner loop  with k : 5
+number of internal leaf-  N : 100
+pth node for prune-  P : 99
+internal node pruned 
+inner loop  with k : 6
+number of internal leaf-  N : 98
+pth node for prune-  P : 51
+internal node pruned 
+inner loop  with k : 7
+number of internal leaf-  N : 94
+pth node for prune-  P : 77
+internal node pruned 
+inner loop  with k : 8
+number of internal leaf-  N : 92
+pth node for prune-  P : 37
+internal node pruned 
+inner loop  with k : 9
+number of internal leaf-  N : 86
+pth node for prune-  P : 21
+internal node pruned 
+inner loop  with k : 10
+number of internal leaf-  N : 75
+pth node for prune-  P : 44
+internal node pruned 
+inner loop  with k : 11
+number of internal leaf-  N : 74
+pth node for prune-  P : 31
+internal node pruned 
+inner loop  with k : 12
+number of internal leaf-  N : 73
+pth node for prune-  P : 58
+internal node pruned 
+inner loop  with k : 13
+number of internal leaf-  N : 72
+pth node for prune-  P : 46
+internal node pruned 
+inner loop  with k : 14
+number of internal leaf-  N : 69
+pth node for prune-  P : 64
+internal node pruned 
+----------inner loop exit---------
+ L : 5 accuracy = 0.6505 , maximum accuracy = 0.7625
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> L : 6
+inner loop limit value by random -  M : 13
+inner loop  with k : 1
+number of internal leaf-  N : 138
+pth node for prune-  P : 70
+internal node pruned 
+inner loop  with k : 2
+number of internal leaf-  N : 135
+pth node for prune-  P : 122
+internal node pruned 
+inner loop  with k : 3
+number of internal leaf-  N : 134
+pth node for prune-  P : 36
+internal node pruned 
+inner loop  with k : 4
+number of internal leaf-  N : 130
+pth node for prune-  P : 111
+internal node pruned 
+inner loop  with k : 5
+number of internal leaf-  N : 129
+pth node for prune-  P : 91
+internal node pruned 
+inner loop  with k : 6
+number of internal leaf-  N : 126
+pth node for prune-  P : 1
+root node pruned 
+inner loop  with k : 7
+number of internal leaf-  N : 1
+pth node for prune-  P : 1
+root node pruned 
+inner loop  with k : 8
+number of internal leaf-  N : 1
+pth node for prune-  P : 1
+root node pruned 
+inner loop  with k : 9
+number of internal leaf-  N : 1
+pth node for prune-  P : 1
+root node pruned 
+inner loop  with k : 10
+number of internal leaf-  N : 1
+pth node for prune-  P : 1
+root node pruned 
+inner loop  with k : 11
+number of internal leaf-  N : 1
+pth node for prune-  P : 1
+root node pruned 
+inner loop  with k : 12
+number of internal leaf-  N : 1
+pth node for prune-  P : 1
+root node pruned 
+inner loop  with k : 13
+number of internal leaf-  N : 1
+pth node for prune-  P : 1
+root node pruned 
+----------inner loop exit---------
+ L : 6 accuracy = 0.5 , maximum accuracy = 0.7625
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> L : 7
+inner loop limit value by random -  M : 7
+inner loop  with k : 1
+number of internal leaf-  N : 138
+pth node for prune-  P : 60
+internal node pruned 
+inner loop  with k : 2
+number of internal leaf-  N : 137
+pth node for prune-  P : 128
+internal node pruned 
+inner loop  with k : 3
+number of internal leaf-  N : 135
+pth node for prune-  P : 122
+internal node pruned 
+inner loop  with k : 4
+number of internal leaf-  N : 134
+pth node for prune-  P : 29
+internal node pruned 
+inner loop  with k : 5
+number of internal leaf-  N : 128
+pth node for prune-  P : 90
+internal node pruned 
+inner loop  with k : 6
+number of internal leaf-  N : 123
+pth node for prune-  P : 12
+internal node pruned 
+inner loop  with k : 7
+number of internal leaf-  N : 116
+pth node for prune-  P : 10
+internal node pruned 
+----------inner loop exit---------
+ L : 7 accuracy = 0.7285 , maximum accuracy = 0.7625
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> L : 8
+inner loop limit value by random -  M : 7
+inner loop  with k : 1
+number of internal leaf-  N : 138
+pth node for prune-  P : 57
+internal node pruned 
+inner loop  with k : 2
+number of internal leaf-  N : 135
+pth node for prune-  P : 55
+internal node pruned 
+inner loop  with k : 3
+number of internal leaf-  N : 126
+pth node for prune-  P : 112
+internal node pruned 
+inner loop  with k : 4
+number of internal leaf-  N : 124
+pth node for prune-  P : 81
+internal node pruned 
+inner loop  with k : 5
+number of internal leaf-  N : 122
+pth node for prune-  P : 76
+internal node pruned 
+inner loop  with k : 6
+number of internal leaf-  N : 120
+pth node for prune-  P : 9
+internal node pruned 
+inner loop  with k : 7
+number of internal leaf-  N : 101
+pth node for prune-  P : 31
+internal node pruned 
+----------inner loop exit---------
+ L : 8 accuracy = 0.7505 , maximum accuracy = 0.7625
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> L : 9
+inner loop limit value by random -  M : 12
+inner loop  with k : 1
+number of internal leaf-  N : 138
+pth node for prune-  P : 99
+internal node pruned 
+inner loop  with k : 2
+number of internal leaf-  N : 137
+pth node for prune-  P : 67
+internal node pruned 
+inner loop  with k : 3
+number of internal leaf-  N : 128
+pth node for prune-  P : 67
+internal node pruned 
+inner loop  with k : 4
+number of internal leaf-  N : 127
+pth node for prune-  P : 60
+internal node pruned 
+inner loop  with k : 5
+number of internal leaf-  N : 126
+pth node for prune-  P : 20
+internal node pruned 
+inner loop  with k : 6
+number of internal leaf-  N : 118
+pth node for prune-  P : 22
+internal node pruned 
+inner loop  with k : 7
+number of internal leaf-  N : 108
+pth node for prune-  P : 82
+internal node pruned 
+inner loop  with k : 8
+number of internal leaf-  N : 106
+pth node for prune-  P : 38
+internal node pruned 
+inner loop  with k : 9
+number of internal leaf-  N : 105
+pth node for prune-  P : 100
+internal node pruned 
+inner loop  with k : 10
+number of internal leaf-  N : 103
+pth node for prune-  P : 68
+internal node pruned 
+inner loop  with k : 11
+number of internal leaf-  N : 101
+pth node for prune-  P : 10
+internal node pruned 
+inner loop  with k : 12
+number of internal leaf-  N : 90
+pth node for prune-  P : 86
+internal node pruned 
+----------inner loop exit---------
+ L : 9 accuracy = 0.706 , maximum accuracy = 0.7625
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> L : 10
+inner loop limit value by random -  M : 11
+inner loop  with k : 1
+number of internal leaf-  N : 138
+pth node for prune-  P : 58
+internal node pruned 
+inner loop  with k : 2
+number of internal leaf-  N : 133
+pth node for prune-  P : 73
+internal node pruned 
+inner loop  with k : 3
+number of internal leaf-  N : 130
+pth node for prune-  P : 53
+internal node pruned 
+inner loop  with k : 4
+number of internal leaf-  N : 127
+pth node for prune-  P : 85
+internal node pruned 
+inner loop  with k : 5
+number of internal leaf-  N : 126
+pth node for prune-  P : 110
+internal node pruned 
+inner loop  with k : 6
+number of internal leaf-  N : 122
+pth node for prune-  P : 8
+internal node pruned 
+inner loop  with k : 7
+number of internal leaf-  N : 93
+pth node for prune-  P : 90
+internal node pruned 
+inner loop  with k : 8
+number of internal leaf-  N : 92
+pth node for prune-  P : 14
+internal node pruned 
+inner loop  with k : 9
+number of internal leaf-  N : 80
+pth node for prune-  P : 15
+internal node pruned 
+inner loop  with k : 10
+number of internal leaf-  N : 75
+pth node for prune-  P : 36
+internal node pruned 
+inner loop  with k : 11
+number of internal leaf-  N : 74
+pth node for prune-  P : 46
+internal node pruned 
+----------inner loop exit---------
+ L : 10 accuracy = 0.6695 , maximum accuracy = 0.7625
+>>>>>>>>>>>>>>>>>outer loop exit>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Maximum Accuracy Achieved after pruning with l : 4 , k : 6 = 0.7625 , Initial accuracy =s 0.77 : test data accuracy : 0.764
+---------------------------------Pruning End---------------------------------------
